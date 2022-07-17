@@ -1,4 +1,4 @@
-# Hello : )
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HyeongJun%20030&fontSize=90)
 I'm HyeongJun Park from South Korea👋   
 I am studying to become a front-end developer.
 

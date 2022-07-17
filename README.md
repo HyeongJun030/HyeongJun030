@@ -1,5 +1,6 @@
 # Hello : )
-I'm HyeongJun Park from South Korea👋 I am studying to become a front-end developer.
+I'm HyeongJun Park from South Korea👋   
+I am studying to become a front-end developer.
 
 Skills
 Platforms & Languages

@@ -2,7 +2,8 @@
 I'm HyeongJun Park from South Korea👋   
 I am studying to become a front-end developer.
 
-Blog : [Tistory](https://hyeongjun030-fe-developer.tistory.com)   
+Blog : https://hyeongjun030-fe-developer.tistory.com   <br>
+e-mail : gudwns3433@gmail.com <br>
 
 ## Skills   
 - Platforms & Languages   
